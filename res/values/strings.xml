@@ -235,8 +235,8 @@
     <string name="action_save">Save</string>
 
     <!-- Hide Statusbar on Lockscreen -->
-    <string name="lockscreen_hide_status_bar_title">Hide status bar</string>
-    <string name="lockscreen_hide_status_bar_summary">Touch status bar to toggle visibility</string>
+    <string name="lockscreen_show_status_bar_title">Show status bar</string>
+    <string name="lockscreen_show_status_bar_summary">Toggles status bar visibility on lock screen</string>
 
     <!-- Dashboard -->
     <string name="dashboard_category_title">Dashboard</string>

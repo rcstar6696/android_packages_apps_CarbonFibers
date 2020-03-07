@@ -48,7 +48,7 @@ public class LockScreen extends CustomSettingsPreferenceFragment implements Inde
         addCustomPreference(findPreference(LOCKSCREEN_PIN_SCRAMBLE_LAYOUT), SYSTEM_TWO_STATE, STATE_OFF);
         addCustomPreference(findPreference(LOCKSCREEN_BATTERY_INFO), SYSTEM_TWO_STATE, STATE_OFF);
         addCustomPreference(findPreference(LOCKSCREEN_ICON), SECURE_TWO_STATE, STATE_ON);
-        addCustomPreference(findPreference(LOCK_SHOW_STATUS_BAR), SECURE_TWO_STATE, STATE_ON);
+        addCustomPreference(findPreference(LOCK_SHOW_STATUS_BAR), SYSTEM_TWO_STATE, STATE_ON);
     }
 
     public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
