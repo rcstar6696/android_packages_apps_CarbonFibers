@@ -251,4 +251,8 @@
     <string name="swap_volume_keys_on_rotation_title">Swap volume buttons</string>
     <string name="swap_volume_keys_on_rotation_summary">Change volume buttons behaviour when rotating the device</string>
 
+    <!-- Flashlight Proximity Check -->
+    <string name="proximitycheck_torch_title">Proximity Check for Flashlight</string>
+    <string name="proximitycheck_torch_summary">Check proximity Sensor before toggling Flashlight</string>
+
 </resources>

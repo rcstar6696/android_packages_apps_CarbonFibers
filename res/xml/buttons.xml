@@ -52,6 +52,12 @@
             android:defaultValue="0" />
 
         <SwitchPreference
+            android:key="proximitycheck_torch"
+            android:title="@string/proximitycheck_torch_title"
+            android:summary="@string/proximitycheck_torch_summary"
+            android:defaultValue="true" />
+
+        <SwitchPreference
           android:key="volume_button_music_control"
           android:title="@string/volume_rocker_music_controls_title"
           android:summary="@string/volume_rocker_music_controls_summary"
